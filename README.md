@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jifrozen0110-mcp-riot-badge.png)](https://mseep.ai/app/jifrozen0110-mcp-riot)
+
 [![smithery badge](https://smithery.ai/badge/@jifrozen0110/riot)](https://smithery.ai/server/@jifrozen0110/riot)
 # MCP Riot Server
 
